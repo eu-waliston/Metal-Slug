@@ -5,3 +5,10 @@ Desenvolvido com HTLM, CSS e Bootstrap, o mesmo consiste de um site baseado em u
 https://user-images.githubusercontent.com/82295321/161582346-d7b30366-24f6-46a1-9c4a-2028c714c155.mp4
 
 
+
+
+link do projeto 
+
+https://metal-slug-clone.netlify.app/
+
+
